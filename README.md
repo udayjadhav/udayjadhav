@@ -8,7 +8,7 @@ Experienced in Java, Spring Boot, Microservices, Event-Driven Architecture, Dist
 
 * 12+ years of backend engineering experience
 * Lead Backend Engineer at Helpshift
-* Previously worked with Helpshift, Mastercard, and PTC
+* Previously worked with Mastercard, and PTC
 * Built and scaled enterprise backend platforms and distributed services
 * Led platform modernization and architecture improvement initiatives
 * Mentored engineers through multiple promotions and career growth
